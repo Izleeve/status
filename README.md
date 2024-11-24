@@ -23,11 +23,4 @@ The **DecentralizedStatus** contract enables users to:
    ```
 2. Deploy the contract using your preferred Ethereum development environment (e.g., Remix, Truffle).
 
-3. Interact with the Contract
-   Admin Actions:
-   - Add updaters: addUpdater
-   - Remove updaters: removeUpdater
-   Updater Actions:
-   - Update shipment: updateShipmentStatus
-   General Actions:
-   - View shipment: getShipment
+3. Interact with the Contract to set and get statuses!
